@@ -1,0 +1,10 @@
+ Volume in drive G has no label.
+ Volume Serial Number is 0800-0D47
+
+ Directory of G:\Git N Jenkins\MyProj
+
+07 Apr, 19  07:19 PM    <DIR>          .
+07 Apr, 19  07:19 PM    <DIR>          ..
+07 Apr, 19  07:19 PM                 0 Test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  79,806,676,992 bytes free
